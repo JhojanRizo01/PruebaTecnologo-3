@@ -1,0 +1,14 @@
+Desarrollado por: Jhojan Esneyder Rizo Arias
+
+Tecnologías usadas:
+   -Framework:Spring Boot
+   -Base de datos relacional utilizando MySql y gestionado mediante XAMPP
+   -Para la codificación se hace uso del workspace Spring tool Suite 4
+   -Postman para la realización de pruebas sobre la creación, carga, modificación y eliminación de datos
+
+Instrucciones:
+   -Descargar el archivo del progarama disponible en gihub
+   -Crear una base de datos en MySql con nombre "tutorial"
+   -Ejecutar el archivo SQL disponible en el repositorio para crear las tablas necesarias para el programa
+   -Ejecutar el programa en el worksapace deseado que permita Spring Boot
+   
